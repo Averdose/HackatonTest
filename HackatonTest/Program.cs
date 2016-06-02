@@ -8,6 +8,7 @@ namespace HackatonTest
 {
     static class Program
     {
+        bool flag1;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
